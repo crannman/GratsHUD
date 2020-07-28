@@ -10,14 +10,14 @@
   <p align="center">
     Free Open Source RP Gamemode to be a alternative to DarkRP with constant content updates to the gamemode
     <br />
-    <a href="https://github.com/crannman/EmberRP"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/crannman/GratsHUD"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/crannman/EmberRP">View Demo</a>
+    <a href="https://github.com/crannman/GratsHUD">View Demo</a>
     ·
-    <a href="https://github.com/crannman/EmberRP/issues">Report Bug</a>
+    <a href="https://github.com/crannman/GratsHUD/issues">Report Bug</a>
     ·
-    <a href="https://github.com/crannman/EmberRP/issues">Request Feature</a>
+    <a href="https://github.com/crannman/GratsHUD/issues">Request Feature</a>
   </p>
 </p>
 
