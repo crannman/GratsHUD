@@ -103,7 +103,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/ProtocolServers) - email Crannman@gmail.com
+Your Name - [@protocolservers](https://twitter.com/ProtocolServers) - email crannman@gmail.com
 
 Project Link: [https://github.com/crannman/GratsHUD](https://github.com/crannman/GratsHUD)
 
